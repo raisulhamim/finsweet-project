@@ -47,4 +47,72 @@ ul,ol{
     /* border: transparent; */
     color: black;
 }
+.bannerpart h1{
+    font-size: 54px;
+    font-weight: 600;
+     font-family: "Poppins", sans-serif;
+     color: white;
+     line-height: 74px;
+
+}
+.bannerpart p{
+    font-size: 16px;
+    font-weight: 500;
+     font-family: "Poppins", sans-serif;
+     line-height: 28px;
+     width: 562px;
+     color: white;
+     padding-top: 24px;
+     padding-bottom: 48px;
+
+}
+.bannerpart .viewbutton{
+    font-size: 18px;
+    font-weight: 600;
+      font-family: "Manrope", sans-serif;
+     line-height: 32px;
+     color: #1B1C2B;
+     padding: 16px 56px;
+     border: 1px solid blanchedalmond;
+     background: rgb(205, 202, 50);
+     border-radius: 41px;
+     transition: .4s;
+     
+
+}
+.bannerpart .viewbutton:hover{
+    background: transparent;
+    color: white;
+    box-shadow: rgb(153, 153, 40);
+
+}
+    
+    
+    
+
+.bannerpart{
+    background: #1C1E53;
+    padding-top: 126px;
+    padding-bottom: 157px;
+}
+.pricingbutton{
+    font-size: 16px;
+    font-weight: 500;
+     font-family: "Poppins", sans-serif;
+     color: white;
+     margin-left: 40px;
+     position: relative;
+
+}
+.pricingbutton i{
+    position: absolute;
+    top: 5px;
+    left: 102px;
+    transition: .5s;
+    visibility: hidden;
+}
+.pricingbutton:hover i{
+    left: 125px;
+    visibility: visible;
+}
 
