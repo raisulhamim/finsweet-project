@@ -115,4 +115,45 @@ ul,ol{
     left: 125px;
     visibility: visible;
 }
+.workpart{
+    background: #F4F6FC;
+}
+.workpart .part1 h2{
+    font-size: 48px;
+    width: 405px;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+    color: #282938;
+    padding-top: 128px;
+}
+.workpart .part1 p{
+    font-size: 16px;
+    width: 405px;
+    font-weight: 400;
+    font-family: "Poppins", sans-serif;
+    color: #282938;
+    line-height: 28px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+.workpart .part1 .touchbutton{
+     font-size: 18px;
+    width: 405px;
+    font-weight: 500;
+    font-family: "Poppins", sans-serif;
+    color: #2405F2;
+    padding-bottom: 349px;
+    position: relative;
+}
+.workpart .part1 .touchbutton i{
+    position: absolute;
+    top: 5px;
+    left: 180px;
+    visibility: hidden;
+    transition: .4s;
+}
+.workpart .part1 .touchbutton:hover i{
+    left: 210px;
+    visibility: visible;
+}
 
