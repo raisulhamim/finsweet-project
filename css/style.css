@@ -192,5 +192,38 @@ ul,ol{
 .workpart{
     padding-bottom: 128px;
 }
-
+.projectpart .box{
+    display: flex;
+    justify-content: space-between;
+}
+.projectpart .box h4{
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 64px;
+    font-family: "Poppins", sans-serif;
+    color: #282938;
+}
+.projectpart .box a{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    font-family: "Poppins", sans-serif;
+    color: #282938;
+}
+.viewbutton2{
+    position: relative;
+    
+}
+.viewbutton2 i{
+    position: absolute;
+    top: 5px;
+    left: 85px;
+    transition: .5s;
+}
+.viewbutton2:hover i{
+    left: 105px;
+}
+.projectpart{
+    padding-top: 128px;
+}
 
