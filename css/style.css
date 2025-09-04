@@ -350,4 +350,26 @@ ul,ol{
 .viewbutton4:hover i{
     left: 130px;
 }
+.designpart{
+    background: #F4F6FC;
+}
+.designpart .design p{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    font-family: "Poppins", sans-serif;
+    color: #282938;
+    text-align: center;
+    padding-top: 128px;
+}
+.designpart .design h4{
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 64px;
+    font-family: "Poppins", sans-serif;
+    color: #282938;
+    width: 630px;
+    text-align: center;
+   margin: auto;
+}
 
