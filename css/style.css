@@ -632,3 +632,26 @@ ul,ol{
     height: 32px;
     
 }
+.faqpart .col-lg-8 p{
+      
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 500;
+    font-family: "Poppins", sans-serif;
+    color: #282938;
+    padding-left: 56px;
+    margin: 32px 0px;
+   
+}
+.faqpart .col-lg-8 .accordion-body{
+      width: 690px;
+    font-size: 18px;
+    line-height: 32px;
+    font-weight: 500;
+    font-family: "Poppins", sans-serif;
+    color: #282938;
+    padding-left: 56px;
+   opacity: 80%;
+   padding-left: 100px !important;
+
+}
