@@ -550,7 +550,7 @@ ul,ol{
 
 }
 .aboutpart{
-    background:#F4F6FC rgba(128, 128, 128,0.1);
+    background: rgba(199, 198, 198, 0.1);
 }
 .aboutpart .col-lg-4 h4{
        width: 327px;
@@ -583,7 +583,7 @@ ul,ol{
     
 }
 .row{
-    margin-top: 130px;
+    padding-top: 130px;
 }
 .aboutpart .col-lg-8 .aboutself .aboutpic h4{
      width: 183px;
@@ -612,5 +612,23 @@ ul,ol{
 .aboutpart .col-lg-8 .aboutself{
     position: relative;
     margin-top: 48px;
-    margin-bottom: 130px;
+    padding-bottom: 130px;
+}
+.faqpart .col-lg-4 h2{
+     width: 328px;
+    font-size: 38px;
+    line-height: 56px;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+    color: #282938;
+    height: 112px;
+}
+.faqpart .col-lg-4 a{
+     width: 220px;
+    font-size: 18px;
+    line-height: 32px;
+    font-weight: 500;
+    font-family: "Poppins", sans-serif;
+    height: 32px;
+    
 }
