@@ -693,3 +693,44 @@ ul,ol{
       font-family: "Poppins", sans-serif;
       margin-top: 24px;
 }
+.informationpart .info2{
+    background: #1C1E53;
+    
+   
+} 
+.informationpart .info2 h2{
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 48px;
+    width: 432px;
+    height: 48px;
+    font-family: "Poppins", sans-serif;
+    color: #FFFFFF;
+  
+
+}
+.informationpart .info2 p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    width: 432px;
+    height: 56px;
+    font-family: "Poppins", sans-serif;
+    color: #F4F6FC;
+    padding-top: 16px;
+
+}
+.informationpart .info2 .info002{
+    padding-left: 96px;
+      padding-top: 106px;
+}
+.informationpart .info2 .info002 .me-2{
+    background: transparent;
+    color: #ffffff;
+    width: 432px;
+    height: 64px;
+   
+}
+.d-flex{
+     padding-top: 40px;
+}
