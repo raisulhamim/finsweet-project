@@ -748,14 +748,17 @@ ul,ol{
      display: inline-block;
 }
 .view .v5{
-    color: #FFFFFF;
+    color: #fbfbff;
     font-size: 18px;
     line-height: 32px;
     font-family: "Poppins", sans-serif;
     font-weight: 400;
+    position: relative;
 }
 .view .v5 i{
+    position: absolute;
     left: 180px;
+    top: 7px;
 }
 .view{
     margin-left: 129px;
