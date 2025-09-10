@@ -764,3 +764,79 @@ ul,ol{
     margin-left: 129px;
     margin-top: 33px;
 }
+.blogpart .col-lg-4 .card-body h5{
+     font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    width: 405px;
+    height: 108px;
+    font-family: "Poppins", sans-serif;
+    color: #282938;
+    
+    padding-top: 16px;
+}
+.blogpart .col-lg-4 .card-body p{
+     font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    width: 405px;
+    height: 56px;
+    font-family: "Poppins", sans-serif;
+    color: #282938;
+    opacity: 70%;
+    padding-top: 16px;
+  
+}
+.blogpart h2{
+    padding-top: 77px;
+    padding-bottom: 64px;
+}
+.blogpart .row{
+    padding-top: 0px !important;
+}
+.blogpart .col-lg-4 .card{
+    margin-left: 0px;
+    display: inline-block;
+    border: 0px;
+    --bs-card-spacer-y: 0rem;
+}
+.blogpart .col-lg-4 .card .time{
+  padding-top: 40px;
+}
+.blogpart .col-lg-4 .card-body{
+        padding: var(--bs-card-spacer-y) var(--bs-card-spacer-y);
+}
+.blogpart .col-lg-4 .card-body .readbutton{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    width: 87px;
+    height: 28px;
+    font-family: "Poppins", sans-serif;
+    color: #282938;
+    position: relative;
+    margin-top: 40px;
+    display: inline-block;
+}
+.blogpart .col-lg-4 .card-body .readbutton i{
+    position: absolute;
+    top: 5px;
+    left: 89px;
+    transition: .5s;
+}
+.blogpart .col-lg-4 .card-body .readbutton:hover i{
+    left: 100px;
+}
+.blogpart h2{
+      font-weight: 600;
+    font-size: 48px;
+    line-height: 64px;
+   
+    font-family: "Poppins", sans-serif;
+    color: #282938;
+    
+}
+.blogpart{
+    padding-top: 77px;
+    padding-bottom: 179px;
+}
