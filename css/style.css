@@ -735,6 +735,9 @@ ul,ol{
 .d-flex{
     padding-top: 16px;
 }
+.informationpart .info2{
+   padding-right: calc(var(--bs-gutter-x) *-2) !important;
+}
 .info2 .info002 .sendbutton{
     background: #FCD980;
     font-size: 18px;
@@ -839,4 +842,10 @@ ul,ol{
 .blogpart{
     padding-top: 77px;
     padding-bottom: 179px;
+}
+.lastpart{
+    background: #1C1E53;
+}
+.lastpart{
+    padding: 0;
 }
