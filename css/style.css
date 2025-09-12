@@ -862,7 +862,7 @@ ul,ol{
     width:399px;
     height: 56px;
     font-family: "Poppins", sans-serif;
-    color: rgba(255, 255, 255,0.8);
+    color: rgba(255, 255, 255,0.6);
    
     padding-top: 22px;
     padding-bottom: 0px;
@@ -893,7 +893,7 @@ ul,ol{
      font-family: "Poppins", sans-serif;
         font-weight: 400;
     font-size: 16px;
-    color: rgba(40, 41, 56,0.8);
+    color: #282938;
     padding: 0px;
 }
 .lastpart .lastbox .l1 h5{
@@ -907,4 +907,16 @@ ul,ol{
 .lastpart .lastbox .l2 h5{
    
     padding-top: 18px;
+}
+.lastpart .col-lg-6 h4{
+    font-family: "Poppins", sans-serif;
+        font-weight: 600;
+    font-size: 48px;
+    color: rgb(255, 255, 255);
+}
+.lastpart .col-lg-6 .lasttext p{
+    margin-bottom: 0px !important;
+}
+.lastpart .col-lg-6 .lasttext img{
+    margin-top: 75px;
 }
