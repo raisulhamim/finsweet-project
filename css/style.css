@@ -189,9 +189,7 @@ ul,ol{
 
 
 }
-.workpart{
-    /* padding-bottom: 128px; */
-}
+
 .projectpart .box{
     display: flex;
     justify-content: space-between;
@@ -919,4 +917,18 @@ ul,ol{
 }
 .lastpart .col-lg-6 .lasttext img{
     margin-top: 75px;
+}
+.lastnav{
+    background: #FFFFFF !important;
+}
+.lastnav ul li a{
+    color: rgba(40, 41, 56,1) !important;
+    
+}
+.lastnav p{
+    font-family: "Poppins", sans-serif;
+        font-weight: 500;
+    font-size: 16px;
+    color: #282938;
+    margin-top: 12px;
 }
