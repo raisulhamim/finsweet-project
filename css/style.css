@@ -117,7 +117,7 @@ ul,ol{
 }
 .workpart{
     background: #F4F6FC;
-    padding-top: 128px;
+    /* padding-top: 128px; */
     padding-bottom: 128px;
 }
 .workpart .part1 h2{
@@ -144,7 +144,7 @@ ul,ol{
     font-weight: 500;
     font-family: "Poppins", sans-serif;
     color: #2405F2;
-    padding-bottom: 349px;
+    /* padding-bottom: 349px; */
     position: relative;
 }
 .workpart .part1 .touchbutton i{
@@ -166,7 +166,7 @@ ul,ol{
 .work .item{
     width: 48%;
     height: 178px;
-    padding-bottom: 48px !important;
+    /* padding-bottom: 48px !important; */
     
 }
 .work .item h3{
@@ -190,7 +190,7 @@ ul,ol{
 
 }
 .workpart{
-    padding-bottom: 128px;
+    /* padding-bottom: 128px; */
 }
 .projectpart .box{
     display: flex;
