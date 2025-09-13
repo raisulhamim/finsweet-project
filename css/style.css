@@ -729,19 +729,36 @@ ul,ol{
     padding-left: 96px;
       padding-top: 106px;
 }
-.informationpart .info2 .info002 .me-2{
+.informationpart .info2 .info002 .yourname{
     background: transparent;
     color: #ffffff;
     width: 432px;
     height: 64px;
+    border-radius: 8px;
    
 }
-.d-flex{
-    padding-top: 16px;
+.informationpart .info2 .info002 .email{
+    background: transparent;
+    color: #ffffff;
+    width: 432px;
+    height: 64px;
+     border-radius: 8px;
+   
 }
-.informationpart .info2{
-   padding-right: calc(var(--bs-gutter-x) *-2) !important;
+.informationpart .info2 .info002 .url{
+    background: transparent;
+    color: #ffffff;
+    width: 432px;
+    height: 64px;
+     border-radius: 8px;
+   
 }
+
+.email{
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
 .info2 .info002 .sendbutton{
     background: #FCD980;
     font-size: 18px;
