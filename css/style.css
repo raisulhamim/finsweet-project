@@ -654,10 +654,28 @@ ul,ol{
     font-weight: 500;
     font-family: "Poppins", sans-serif;
     color: #282938;
-    padding-left: 56px;
+ margin-left: 83px;
    opacity: 80%;
-   padding-left: 100px !important;
+  
 
+}
+.accordion-button{
+    background: transparent !important;
+}
+.accordion-item{
+    border: 0px !important;
+}
+.accordion-button::after{
+    background: 0 !important;
+    content: "+";
+    transform: translateY(-30%) !important;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.accordion-button:not(.collapsed)::after{
+     background: 0 !important;
+    content: "x";
+    transform: translateY(-30%) !important;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .informationpart .row .col-lg-6 .overly1{
      /* background-image: linear-gradient(to bottom right, rgba(28, 30, 83,0.42),#1C1E53); */
