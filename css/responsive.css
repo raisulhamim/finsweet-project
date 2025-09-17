@@ -556,5 +556,44 @@
     }
 
     /* ----faq start */
-
+    .faqpart .col-lg-4 h2 {
+	width: 300px;
+	font-size: 33px;
+	line-height: 48px;
+	
+	height: 100px;
+	text-align: center;
+}
+.faqpart .col-lg-4 a {
+	width: 224px;
+	font-size: 14px;
+	line-height: 32px;
+	
+	display: inline-block;
+	margin-left: 62px;
+}
+.faqpart .col-lg-8 p {
+	font-size: 12px;
+	line-height: 17px;
+	font-weight: 600;
+	font-family: "Poppins", sans-serif;
+	color: #282938;
+	padding-left: 22px;
+	margin: 4px 0px;
+	width: 309px;
+}
+.faqpart .col-lg-8 .accordion-body {
+	width: 362px;
+	font-size: 13px;
+	line-height: 32px;
+	font-weight: 500;
+	font-family: "Poppins", sans-serif;
+	color: #282938;
+	margin-left: -7px;
+	opacity: 80%;
+}
+.faqpart {
+	padding: 85px 0px;
+}
+/* ----information start */
 }
