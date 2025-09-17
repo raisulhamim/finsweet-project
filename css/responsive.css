@@ -352,5 +352,165 @@
         padding-top: 85px;
         padding-bottom: 80px;
     }
-       /* ----Design start */
+
+    /* ----Design start */
+    .designpart .design h4 {
+        font-size: 33px;
+
+        line-height: 45px;
+
+        width: 304px;
+
+    }
+
+    .item1 {
+        width: 100%;
+        height: 320px;
+
+        padding-left: 27px;
+        padding-top: 50px;
+    }
+
+    .designpart .designitem .item1 h4 {
+        width: 314px;
+        font-size: 20px;
+        line-height: 30px;
+
+        margin-top: 12px;
+        margin-bottom: 22px;
+    }
+
+    .designpart .designitem .item1 p {
+        width: 254px;
+        font-size: 14px;
+        line-height: 26px;
+
+    }
+
+    .item2 {
+        width: 100%;
+        height: 320px;
+
+        padding-left: 27px;
+        padding-top: 50px;
+    }
+
+    .designpart .designitem .item2 h4 {
+        width: 314px;
+        font-size: 20px;
+        line-height: 30px;
+
+        margin-top: 12px;
+        margin-bottom: 22px;
+    }
+
+    .designpart .designitem .item2 p {
+        width: 254px;
+        font-size: 14px;
+        line-height: 26px;
+
+    }
+
+    .item3 {
+        width: 100%;
+        height: 320px;
+
+        padding-left: 27px;
+        padding-top: 50px;
+    }
+
+    .designpart .designitem .item3 h4 {
+        width: 314px;
+        font-size: 20px;
+        line-height: 30px;
+
+        margin-top: 12px;
+        margin-bottom: 22px;
+    }
+
+    .designpart .designitem .item3 p {
+        width: 254px;
+        font-size: 14px;
+        line-height: 26px;
+
+    }
+
+    .item4 {
+        width: 100%;
+        height: 320px;
+
+        padding-left: 27px;
+        padding-top: 50px;
+    }
+
+    .designpart .designitem .item4 h4 {
+        width: 314px;
+        font-size: 20px;
+        line-height: 30px;
+
+        margin-top: 12px;
+        margin-bottom: 22px;
+    }
+
+    .designpart .designitem .item4 p {
+        width: 254px;
+        font-size: 14px;
+        line-height: 26px;
+
+    }
+
+    .item5 {
+        width: 100%;
+        height: 320px;
+
+        padding-left: 27px;
+        padding-top: 50px;
+    }
+
+    .designpart .designitem .item5 h4 {
+        width: 314px;
+        font-size: 20px;
+        line-height: 30px;
+
+        margin-top: 12px;
+        margin-bottom: 22px;
+    }
+
+    .designpart .designitem .item5 p {
+        width: 254px;
+        font-size: 14px;
+        line-height: 26px;
+
+    }
+
+    .item6 {
+        width: 100%;
+        height: 320px;
+
+        padding-left: 27px;
+        padding-top: 50px;
+    }
+
+    .designpart .designitem .item6 h4 {
+        width: 314px;
+        font-size: 20px;
+        line-height: 30px;
+
+        margin-top: 12px;
+        margin-bottom: 22px;
+    }
+
+    .designpart .designitem .item6 p {
+        width: 254px;
+        font-size: 14px;
+        line-height: 26px;
+
+    }
+
+    .designpart {
+        padding-top: 85px;
+        padding-bottom: 80px;
+    }
+    /* ----about start */
+
 }
