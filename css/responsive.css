@@ -1,0 +1,58 @@
+@media (min-width:320px) and (max-width:575.99px){
+    /* -----navbar start */
+    .navbar-toggler i{
+        font-size: 18px;
+        margin-right: -18px;
+    }
+    .navbar-brand img{
+        width: 80%;
+    }
+    .navbar-toggler:focus{
+        box-shadow: 0px 0px 0px transparent !important;
+    }
+    .navbar-toggler{
+        border: 0px transparent;
+    }
+    .navbar-collapse{
+        background: #00a2ff4b;
+        border-radius: 10px;
+    }
+    .navbar-nav{
+        padding: 40px 0px ;
+        align-items: center;
+    }
+    
+    .nav-item{
+        padding: 10px 0px;
+    }
+    .navber-button{
+        display: inline-block;
+        margin-bottom: 10px;
+
+    }
+    .navbar .navber-button {
+	border: 1px solid rgba(244, 246, 252, 0.2);
+	
+	padding: 13px 19px;
+	font-size: 14px;
+    color: white;
+
+
+	margin-left: 73px;
+	
+	
+
+
+    }
+ 
+    .navbar-nav .nav-item .nav-link:hover{
+    color: #BBBBCB;
+    }
+    .navbar .navber-button:hover{
+        background: transparent;
+        color: white;
+
+    }
+    /* ----banner start--- */
+
+}
