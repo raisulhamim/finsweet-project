@@ -1,58 +1,144 @@
-@media (min-width:320px) and (max-width:575.99px){
+@media (min-width:320px) and (max-width:575.99px) {
+
     /* -----navbar start */
-    .navbar-toggler i{
+    .navbar-toggler i {
         font-size: 18px;
         margin-right: -18px;
     }
-    .navbar-brand img{
+
+    .navbar-brand img {
         width: 80%;
     }
-    .navbar-toggler:focus{
+
+    .navbar-toggler:focus {
         box-shadow: 0px 0px 0px transparent !important;
     }
-    .navbar-toggler{
+
+    .navbar-toggler {
         border: 0px transparent;
     }
-    .navbar-collapse{
+
+    .navbar-collapse {
         background: #00a2ff4b;
         border-radius: 10px;
     }
-    .navbar-nav{
-        padding: 40px 0px ;
+
+    .navbar-nav {
+        padding: 40px 0px;
         align-items: center;
     }
-    
-    .nav-item{
+
+    .nav-item {
         padding: 10px 0px;
     }
-    .navber-button{
+
+    .navber-button {
         display: inline-block;
         margin-bottom: 10px;
 
     }
+
     .navbar .navber-button {
-	border: 1px solid rgba(244, 246, 252, 0.2);
-	
-	padding: 13px 19px;
-	font-size: 14px;
-    color: white;
+        border: 1px solid rgba(244, 246, 252, 0.2);
+
+        padding: 13px 19px;
+        font-size: 14px;
+        color: white;
 
 
-	margin-left: 73px;
-	
-	
+        margin-left: 73px;
+
+
 
 
     }
- 
-    .navbar-nav .nav-item .nav-link:hover{
-    color: #BBBBCB;
+
+    .navbar-nav .nav-item .nav-link:hover {
+        color: #BBBBCB;
     }
-    .navbar .navber-button:hover{
+
+    .navbar .navber-button:hover {
         background: transparent;
         color: white;
 
     }
-    /* ----banner start--- */
 
+    /* ----banner start--- */
+    .bannerpart h1 {
+        font-size: 35px;
+        font-weight: 600;
+        font-family: "Poppins", sans-serif;
+        color: white;
+        line-height: 50px;
+
+    }
+
+    .bannerpart p {
+        font-size: 14px;
+        line-height: 24px;
+        width: 299px;
+        color: white;
+        padding-top: 24px;
+        padding-bottom: 48px;
+    }
+
+    .bannerpart .viewbutton {
+        font-size: 14px;
+        padding: 13px 15px;
+        background: rgb(205, 202, 50);
+
+    }
+
+    .bannerpart .viewbutton:hover {
+        background: rgb(205, 202, 50);
+        color: #1B1C2B;
+
+
+    }
+
+    .pricingbutton {
+        font-size: 14px;
+        font-weight: 500;
+        font-family: "Poppins", sans-serif;
+        color: white;
+        margin-left: 17px;
+        position: relative;
+    }
+
+    .pricingbutton {
+        font-size: 14px;
+        margin-left: 18px;
+
+
+    }
+
+    .pricingbutton i {
+
+
+        left: 95px;
+
+        visibility: visible;
+    }
+
+    .pricingbutton:hover i {
+        left: 95px;
+        visibility: visible;
+    }
+
+    .bannerpart {
+
+        padding-top: 48px;
+        padding-bottom: 100px;
+    }
+
+    .bannerpart .col-lg-6 img {
+        width: 90%;
+        margin-top: 40px;
+    }
+
+    .bannerpart .col-lg-6 {
+        text-align: center;
+    }
+
+    /* ----work start */
 }
