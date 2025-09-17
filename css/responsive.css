@@ -511,6 +511,50 @@
         padding-top: 85px;
         padding-bottom: 80px;
     }
+
     /* ----about start */
+    .aboutpart .col-lg-4 h4 {
+        width: 298px;
+        font-size: 33px;
+        line-height: 45px;
+
+        height: 92px;
+        text-align: center;
+    }
+
+    .aboutpart .col-lg-4 p {
+        width: 301px;
+        font-size: 14px;
+        line-height: 24px;
+
+        padding-top: 1px;
+        text-align: center;
+    }
+
+    .aboutpart .col-lg-8 h4 {
+        width: 300px;
+        font-size: 20px;
+        line-height: 33px;
+
+        height: 137px;
+        text-align: center;
+    }
+
+    .aboutpart .col-lg-8 .aboutself .aboutpic h6 {
+
+        padding-left: 31px;
+    }
+
+    .aboutpart .col-lg-8 .aboutself img {
+        margin-left: 40px;
+    }
+
+    .aboutpart {
+
+        padding-top: 85px;
+        padding-bottom: 80px;
+    }
+
+    /* ----faq start */
 
 }
