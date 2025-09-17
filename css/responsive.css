@@ -845,19 +845,26 @@
 .lastpart .lastbox .l1 {
 	width: 192px;
 	height: 95px;
-	/* padding-left: -25px; */
+	
 	margin-left: -24px;
 }
 .lastpart .col-lg-6 h4 {
-	font-family: "Poppins", sans-serif;
-	font-weight: 600;
+	
 	font-size: 35px;
-	color: rgb(255, 255, 255);
+	
 	margin-top: 5px;
 }
 .lastpart .col-lg-6 .lasttext img {
 	margin-top: 91px;
 	margin-bottom: 20px;
 }
+.lastpart {
+	padding-top: 41px;
+}
  /* ----last  nav start */
+ .lastnav p {
+	
+	font-size: 12px;
+	
+}
 }
