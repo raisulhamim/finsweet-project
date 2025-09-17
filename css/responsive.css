@@ -139,59 +139,218 @@
     .bannerpart .col-lg-6 {
         text-align: center;
     }
-   
+
 
     /* ----work start */
-     .workpart .part1 h2{
-    font-size: 35px;
-    margin-left: 30px;
-}
-.workpart .part1 p {
-	font-size: 14px;
-	width: 299px;
-	margin-left: 10px;
-	padding-top: 4px;
+    .workpart .part1 h2 {
+        font-size: 35px;
+        margin-left: 30px;
+    }
+
+    .workpart .part1 p {
+        font-size: 14px;
+        width: 299px;
+        margin-left: 10px;
+        padding-top: 4px;
         padding-bottom: 0px;
-}
-.workpart .part1 .touchbutton{
-     font-size: 14px;
-    margin-left: 64px;
-    display: inline-block;
-    margin-bottom: 20px;
-   
-}
-.workpart .part1 .touchbutton i{
-   
-    top: 3px;
-    left: 145px;
-    visibility: visible;
-    
-}
-.workpart .part1 .touchbutton:hover i{
-    left: 145px;
-    
-}
-.work .item {
-	width: 100%;
-	height: 196px;
-	
-	box-shadow: 0px 0px 10px rgba(0, 0, 0,0.7);
-	padding: 10px 5px;
-    padding-left: 10px;
-}
-.work .item h3{
-    font-size: 25px;
-}
-.work .item p{
-    font-size: 14px;
-    
-    width: 299px;
-    
-}
-.workpart {
-	
-	padding-top: 49px;
-	padding-bottom: 70px;
-}
-   /* ----project start */
+    }
+
+    .workpart .part1 .touchbutton {
+        font-size: 14px;
+        margin-left: 64px;
+        display: inline-block;
+        margin-bottom: 20px;
+
+    }
+
+    .workpart .part1 .touchbutton i {
+
+        top: 3px;
+        left: 145px;
+        visibility: visible;
+
+    }
+
+    .workpart .part1 .touchbutton:hover i {
+        left: 145px;
+
+    }
+
+    .work .item {
+        width: 100%;
+        height: 196px;
+
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.7);
+        padding: 10px 5px;
+        padding-left: 10px;
+    }
+
+    .work .item h3 {
+        font-size: 25px;
+    }
+
+    .work .item p {
+        font-size: 14px;
+
+        width: 299px;
+
+    }
+
+    .workpart {
+
+        padding-top: 49px;
+        padding-bottom: 70px;
+    }
+
+    /* ----project start */
+    .projectpart .box h4 {
+        font-size: 33px;
+
+        line-height: 0px;
+
+        margin-bottom: 26px;
+        width: 308px;
+    }
+
+    .projectpart .box {
+        display: block;
+
+    }
+
+    .projectpart .box a {
+        font-size: 14px;
+
+        line-height: 30px;
+
+        display: inline-block;
+        margin-left: 92px;
+        margin-bottom: 10px;
+    }
+
+    .viewbutton2 i {
+
+        top: 7px;
+        left: 81px;
+
+    }
+
+    .viewbutton2:hover i {
+        left: 81px;
+    }
+
+    .projectpart .col-lg-8 .overlyani img {
+        margin-bottom: 26px;
+    }
+
+    .overly {
+
+
+        top: 0;
+        left: 0;
+        height: 80%;
+        padding-top: 210px;
+
+    }
+
+    .overlyani:hover .overly {
+        left: 0;
+        overflow: hidden;
+
+
+    }
+
+    .overlyani {
+        position: relative;
+        overflow: hidden;
+    }
+
+    .overly h4 {
+
+        opacity: 0;
+    }
+
+    .overly p {
+
+        opacity: 0;
+    }
+
+    .overly a {
+        opacity: 0;
+
+    }
+
+    .viewbutton3 {
+
+        opacity: 0;
+    }
+
+    .viewbutton3 i {
+        opacity: 0;
+    }
+
+    .viewbutton3:hover i {
+        opacity: 0px;
+    }
+
+    .overly2 {
+        width: 100%;
+        height: 100%;
+        background-image: linear-gradient(to bottom right, rgba(28, 30, 83, 0.42), #1C1E53);
+        position: absolute;
+        top: 0;
+        right: 0;
+        padding-top: 129px;
+        padding-left: 56px;
+        transition: .4s;
+
+
+    }
+
+    .overlyani2:hover .overly2 {
+        right: 0;
+        overflow: visible;
+
+
+    }
+
+    .overlyani2 {
+        position: relative;
+        overflow: hidden;
+    }
+
+    .overly2 h4 {
+        font-size: 15px;
+        font-weight: 600;
+        line-height: 19px;
+        font-family: "Poppins", sans-serif;
+        color: #ffffff;
+        width: 195px;
+        padding-top: -19px !important;
+    }
+
+    .overly2 a {
+        font-size: 12px;
+        font-weight: 500;
+        line-height: 28px;
+        font-family: "Poppins", sans-serif;
+        color: #FCD980;
+        width: 293px;
+    }
+
+    .viewbutton4 i {
+        position: absolute;
+        top: 5px;
+        left: 90px;
+        transition: .5s;
+    }
+
+    .viewbutton4:hover i {
+        left: 90px;
+    }
+
+    .projectpart {
+        padding-top: 85px;
+        padding-bottom: 80px;
+    }
+       /* ----Design start */
 }
