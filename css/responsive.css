@@ -557,43 +557,163 @@
 
     /* ----faq start */
     .faqpart .col-lg-4 h2 {
-	width: 300px;
-	font-size: 33px;
-	line-height: 48px;
-	
-	height: 100px;
-	text-align: center;
-}
-.faqpart .col-lg-4 a {
-	width: 224px;
-	font-size: 14px;
-	line-height: 32px;
-	
-	display: inline-block;
-	margin-left: 62px;
-}
-.faqpart .col-lg-8 p {
-	font-size: 12px;
-	line-height: 17px;
-	font-weight: 600;
-	font-family: "Poppins", sans-serif;
-	color: #282938;
-	padding-left: 22px;
-	margin: 4px 0px;
-	width: 309px;
-}
-.faqpart .col-lg-8 .accordion-body {
-	width: 362px;
-	font-size: 13px;
-	line-height: 32px;
-	font-weight: 500;
-	font-family: "Poppins", sans-serif;
-	color: #282938;
-	margin-left: -7px;
-	opacity: 80%;
-}
-.faqpart {
-	padding: 85px 0px;
-}
-/* ----information start */
+        width: 300px;
+        font-size: 33px;
+        line-height: 48px;
+
+        height: 100px;
+        text-align: center;
+    }
+
+    .faqpart .col-lg-4 a {
+        width: 224px;
+        font-size: 14px;
+        line-height: 32px;
+
+        display: inline-block;
+        margin-left: 62px;
+    }
+
+    .faqpart .col-lg-8 p {
+        font-size: 12px;
+        line-height: 17px;
+        font-weight: 600;
+        font-family: "Poppins", sans-serif;
+        color: #282938;
+        padding-left: 22px;
+        margin: 4px 0px;
+        width: 309px;
+    }
+
+    .faqpart .col-lg-8 .accordion-body {
+        width: 362px;
+        font-size: 13px;
+        line-height: 32px;
+        font-weight: 500;
+        font-family: "Poppins", sans-serif;
+        color: #282938;
+        margin-left: -7px;
+        opacity: 80%;
+    }
+
+    .faqpart {
+        padding: 85px 0px;
+    }
+
+    /* ----information start */
+    .informationpart .overlyani001 h2 {
+        font-size: 25px;
+        line-height: 39px;
+        font-weight: 600;
+        width: 308px;
+        height: 225px;
+        color: #FFFFFF;
+        font-family: "Poppins", sans-serif;
+        text-align: center;
+        display: inline-block;
+        margin-left: -103px;
+        margin-top: -30px;
+    }
+
+    .informationpart .overlyani001 p {
+        font-size: 12px;
+        line-height: 21px;
+        font-weight: 400;
+        width: 299px;
+        height: 11px;
+        color: #FFFFFF;
+        font-family: "Poppins", sans-serif;
+        margin-top: -110px;
+        text-align: center;
+        margin-left: -98px;
+    }
+
+    .informationpart .info2 h2 {
+        color: #fff;
+        font-size: 25px;
+        font-weight: 500;
+        font-family: "Poppins", sans-serif;
+        width: 200px;
+        /* text-align: center; */
+        margin-left: -20px;
+    }
+
+    .informationpart .info2 p {
+
+        font-size: 12px;
+
+        padding-top: 0px;
+        padding-bottom: 0px;
+        line-height: 26px;
+        width: 299px;
+        margin-left: -61px;
+    }
+
+    .informationpart .info2 .info002 {
+
+        padding-top: 62px;
+
+    }
+
+    .informationpart input {
+        width: 100%;
+        margin: 8px 0px;
+        padding: 25px 70px;
+        background: transparent;
+        border: 1px solid rgba(255, 255, 255, 0.22);
+        border-radius: 8px;
+        color: #F4F6FC;
+        font-size: 14px;
+        font-weight: 500;
+        font-family: "Poppins", sans-serif;
+
+
+    }
+
+    .informationpart input {
+        width: 208%;
+        margin: 8px 0px;
+        padding: 13px 1px;
+        background: transparent;
+        border: 1px solid rgba(255, 255, 255, 0.22);
+        border-radius: 8px;
+        color: #F4F6FC;
+        font-size: 14px;
+        font-weight: 500;
+        font-family: "Poppins", sans-serif;
+        margin-left: -50px;
+    }
+
+    .info2 .info002 .sendbutton {
+
+        font-size: 14px;
+        line-height: 13px;
+
+        padding: 9px 70px;
+
+
+        display: inline-block;
+
+        margin-left: -35px;
+    }
+
+    .view .v5 {
+
+        font-size: 14px;
+
+        margin-left: -140px;
+        margin-top: -20px;
+    }
+
+    .view .v5 i {
+        position: absolute;
+        left: 141px;
+        top: 5px;
+    }
+
+    .info2 .info002 .view .v5:hover i {
+        left: 141px;
+        top: 5px;
+    }
+    /* ----blog start */
 }
