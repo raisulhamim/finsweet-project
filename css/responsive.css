@@ -46,7 +46,7 @@
         color: white;
 
 
-        margin-left: 73px;
+        margin-left: 116px;
 
 
 
@@ -74,13 +74,17 @@
     }
 
     .bannerpart p {
-        font-size: 14px;
-        line-height: 24px;
-        width: 299px;
-        color: white;
-        padding-top: 24px;
-        padding-bottom: 48px;
-    }
+	font-size: 14px;
+	line-height: 24px;
+	width: 347px;
+	color: white;
+	padding-top: 24px;
+	padding-bottom: 48px;
+	/* text-align: center; */
+	/* justify-content: center; */
+	/* margin-left: auto; */
+	margin: auto;
+}
 
     .bannerpart .viewbutton {
         font-size: 14px;
@@ -144,24 +148,23 @@
     /* ----work start */
     .workpart .part1 h2 {
         font-size: 35px;
-        margin-left: 30px;
+      
     }
 
-    .workpart .part1 p {
-        font-size: 14px;
-        width: 299px;
-        margin-left: 10px;
-        padding-top: 4px;
-        padding-bottom: 0px;
-    }
+   .workpart .part1 p {
+	font-size: 14px;
+	width: 372px;
+	margin-left: 1px;
+	padding-top: 4px;
+	padding-bottom: 0px;
+}
 
-    .workpart .part1 .touchbutton {
-        font-size: 14px;
-        margin-left: 64px;
-        display: inline-block;
-        margin-bottom: 20px;
-
-    }
+  .workpart .part1 .touchbutton {
+	font-size: 14px;
+	margin-left: 1px;
+	display: inline-block;
+	margin-bottom: 20px;
+}
 
     .workpart .part1 .touchbutton i {
 
@@ -217,15 +220,13 @@
 
     }
 
-    .projectpart .box a {
-        font-size: 14px;
-
-        line-height: 30px;
-
-        display: inline-block;
-        margin-left: 92px;
-        margin-bottom: 10px;
-    }
+   .projectpart .box a {
+	font-size: 14px;
+	line-height: 30px;
+	display: inline-block;
+	margin-left: 4px;
+	margin-bottom: 10px;
+}
 
     .viewbutton2 i {
 
@@ -242,16 +243,12 @@
         margin-bottom: 26px;
     }
 
-    .overly {
-
-
-        top: 0;
-        left: 0;
-        height: 80%;
-        padding-top: 210px;
-
-    }
-
+   .overly {
+	top: 0;
+	left: 0;
+	height: 91%;
+	padding-top: 210px;
+}
     .overlyani:hover .overly {
         left: 0;
         overflow: hidden;
@@ -513,32 +510,39 @@
     }
 
     /* ----about start */
-    .aboutpart .col-lg-4 h4 {
-        width: 298px;
-        font-size: 33px;
-        line-height: 45px;
+   .aboutpart .col-lg-4 h4 {
+	width: 274px;
+	font-size: 33px;
+	line-height: 45px;
+	height: 109px;
+	/* text-align: center; */
+	margin: auto;
+}
 
-        height: 92px;
-        text-align: center;
-    }
+   .aboutpart .col-lg-4 p {
+	width: 230px;
+	font-size: 14px;
+	line-height: 24px;
+	padding-top: 1px;
+	/* text-align: center; */
+	margin: auto;
+}
 
-    .aboutpart .col-lg-4 p {
-        width: 301px;
-        font-size: 14px;
-        line-height: 24px;
-
-        padding-top: 1px;
-        text-align: center;
-    }
-
-    .aboutpart .col-lg-8 h4 {
-        width: 300px;
-        font-size: 20px;
-        line-height: 33px;
-
-        height: 137px;
-        text-align: center;
-    }
+  .aboutpart .col-lg-8 h4 {
+	width: 280px;
+	font-size: 20px;
+	line-height: 33px;
+	height: 156px;
+	text-align: center;
+	margin: auto;
+}
+.aboutpart .col-lg-8 .aboutself {
+	position: relative;
+	/* margin-top: 56px; */
+	/* padding-bottom: 130px; */
+	/* margin: auto; */
+	margin: 50px 56px;
+}
 
     .aboutpart .col-lg-8 .aboutself .aboutpic h6 {
 
@@ -556,23 +560,20 @@
     }
 
     /* ----faq start */
-    .faqpart .col-lg-4 h2 {
-        width: 300px;
-        font-size: 33px;
-        line-height: 48px;
-
-        height: 100px;
-        text-align: center;
-    }
-
-    .faqpart .col-lg-4 a {
-        width: 224px;
-        font-size: 14px;
-        line-height: 32px;
-
-        display: inline-block;
-        margin-left: 62px;
-    }
+   .faqpart .col-lg-4 h2 {
+	width: 390px;
+	font-size: 33px;
+	line-height: 48px;
+	height: 100px;
+	/* text-align: center; */
+}
+   .faqpart .col-lg-4 a {
+	width: 224px;
+	font-size: 14px;
+	line-height: 32px;
+	display: inline-block;
+	margin-left: 1px;
+}
 
     .faqpart .col-lg-8 p {
         font-size: 12px;
@@ -616,38 +617,37 @@
     }
 
     .informationpart .overlyani001 p {
-        font-size: 12px;
-        line-height: 21px;
-        font-weight: 400;
-        width: 299px;
-        height: 11px;
-        color: #FFFFFF;
-        font-family: "Poppins", sans-serif;
-        margin-top: -110px;
-        text-align: center;
-        margin-left: -98px;
-    }
+	font-size: 12px;
+	line-height: 21px;
+	font-weight: 400;
+	width: 299px;
+	height: 11px;
+	color: #FFFFFF;
+	font-family: "Poppins", sans-serif;
+	margin-top: -110px;
+	/* text-align: center; */
+	margin-left: -56px;
+	/* margin: auto; */
+}
 
-    .informationpart .info2 h2 {
-        color: #fff;
-        font-size: 25px;
-        font-weight: 500;
-        font-family: "Poppins", sans-serif;
-        width: 200px;
-        /* text-align: center; */
-        margin-left: -20px;
-    }
-
-    .informationpart .info2 p {
-
-        font-size: 12px;
-
-        padding-top: 0px;
-        padding-bottom: 0px;
-        line-height: 26px;
-        width: 299px;
-        margin-left: -61px;
-    }
+   .informationpart .info2 h2 {
+	color: #fff;
+	font-size: 25px;
+	font-weight: 500;
+	font-family: "Poppins", sans-serif;
+	width: 200px;
+	/* text-align: center; */
+	margin-left: -5px;
+}
+   .informationpart .info2 p {
+	font-size: 12px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	line-height: 24px;
+	width: 299px;
+	margin-left: -44px;
+	/* margin: auto; */
+}
 
     .informationpart .info2 .info002 {
 
@@ -671,18 +671,30 @@
     }
 
     .informationpart input {
-        width: 100%;
-        margin: 8px 0px;
-        padding: 13px 1px;
-        background: transparent;
-        border: 1px solid rgba(255, 255, 255, 0.22);
-        border-radius: 8px;
-        color: #F4F6FC;
-        font-size: 14px;
-        font-weight: 500;
-        font-family: "Poppins", sans-serif;
-        margin-left: -50px;
-    }
+	width: 100%;
+	margin: 8px 0px;
+	padding: 13px 16px;
+	background: transparent;
+	border: 1px solid rgba(255, 255, 255, 0.22);
+	border-radius: 8px;
+	color: #F4F6FC;
+	font-size: 14px;
+	font-weight: 500;
+	font-family: "Poppins", sans-serif;
+	margin-left: -26px;
+}
+    .informationpart .row .col-lg-6 .overly1 {
+	/* background-image: linear-gradient(to bottom right, rgba(28, 30, 83,0.42),#1C1E53); */
+	background: rgba(28, 30, 83,0.4);
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	padding-left: 96px;
+	padding-top: 96px;
+	text-align: center;
+}
 
     .info2 .info002 .sendbutton {
 
